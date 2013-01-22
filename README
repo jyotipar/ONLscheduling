@@ -1,0 +1,7 @@
+This is a test harness for testing scheduling in ONL. 
+cc_test is a C++ test harness:
+   It is written in C++. Source code is in /lib. Source code for test processes found in /bin. 
+
+python_test contains a Python test harness
+
+These have been tested in Linux.
